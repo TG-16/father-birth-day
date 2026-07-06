@@ -18,7 +18,7 @@
       - LOOP_END   : where it wraps back to LOOP_START
       - PAUSE_POINT: where music resumes after blow (same as LOOP_END usually)
    ================================================================ */
-const MUSIC_SRC = "ababye.mp3"; // ← CHANGE THIS to your filename
+const MUSIC_SRC = "ababye.MP3"; // ← CHANGE THIS to your filename
 const LOOP_START = 43; // seconds — loop region start
 const LOOP_END = 46; // seconds — loop region end
 const PAUSE_POINT = 47; // seconds — resume from here after blow
